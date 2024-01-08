@@ -1,5 +1,5 @@
 # MatPlotLibChallenge
-The purpose of this challenge to use Python including Pandas and MatPlotLib to clean and analyze data around tests of various drug regimens on mice, including data visualizations to gain insights from the raw data.
+The purpose of this challenge is to clean and analyze data around test of various drug reimens on mice, using Python including Pandas and MatPlotLib to create visualizations to gain insights from the raw data.
 There are six components of this challenge: 
 1. Prepare Data
 2. Generate Summary Statistics
